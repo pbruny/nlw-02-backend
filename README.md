@@ -37,7 +37,7 @@ o modelo do corpo de requisição é como segue:
 - delete: WIP
 - Update: WIP
 
-### connections
+### /connections
 
 - get: Retorna o total de conexões entre professores e alunos até o momento
 - post: Insere uma nova conexão, no corpo, deve ser informado um id de usuário, no caso, professor existente.
